@@ -1,0 +1,11 @@
+id: 1 |username:abdo |emai: abdok7374@gmail.com |phone: 010 |password:  123 |type Student 
+id: 2 |username:abdo |emai: abdok7374@gmail.com |phone: 010 |password:  123 |type Parent 
+id: 2 |username:abdo |emai: abdok7374@gmail.com |phone: 010 |password:  123 |type Parent 
+id: 3 |username:abdo |emai: abdok7374@gmail.com |phone: 010 |password:  123 |type Admin 
+id: 5 |username:abdo |emai: par@par.par |phone: 0105 |password:  202cb962ac59075b964b07152d234b70 |type Student 
+id: 5 |username:abdo |emai: par@par.par |phone: 0105 |password:  202cb962ac59075b964b07152d234b70 |type Admin 
+id: 1 |username:abdo |emai: abdok7374@gmail.com |phone: 0105 |password:  123 |type Student 
+id: 2 |username:abdo |emai: par@par.par |phone: 010 |password:  123 |type Admin 
+id: 7 |username:abdo |emai: solly151638@gmail.com |phone: 0105 |password:  123 |type Teacher 
+id: 8 |username:arafa |emai: solly151638@gmail.com |phone: 0105 |password:  0000 |type Student 
+id: 22 |username:asd |emai: par@par.par |phone: 000 |password:  123 |type Teacher 
